@@ -2,12 +2,16 @@
 
 ## Description
 
-Append X to the unnamed indirect variables.
+Append `X` to the unnamed indirect variables.
+
+## Intended Use
+
+Data entry
 
 ## Registers Utilized
 
-I
+`I`
 
 ## Suggestion
 
-Initialize I to a value at and beyond the unnamed indirect variables will be overwritten.
+Initialize `I` to a value at and beyond the unnamed indirect variables will be overwritten.
