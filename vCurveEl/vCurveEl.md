@@ -2,15 +2,15 @@
 
 # Variables Used
 
-Z: curve elevation
+`Z` curve elevation
 
-Y: Y_PVC
+`Y` Y_PVC
 
-G: g_1
+`G` g_1
 
-H: g_2 (mnemonic: H comes right after G)
+`H` g_2 (mnemonic: `H` comes right after `G`)
 
-L: L
+`L` L
 
 # Notes
 
